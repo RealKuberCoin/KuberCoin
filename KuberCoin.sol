@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.4;
 
-interface IERC20 {
+interface IBEP20 {
     
     function totalSupply() external view returns (uint256);
     function balanceOf(address account) external view returns (uint256);
@@ -429,7 +429,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract KuberCoin is Context, IERC20, Ownable {
+contract KuberCoin is Context, IBEP20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
