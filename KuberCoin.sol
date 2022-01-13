@@ -1,10 +1,13 @@
-/**
- *Discord - https://discord.gg/W3nbnePfTk
- *Twitter - https://twitter.com/thekubercoin
- *Telegram - https://t.me/thekubercoin
-**/
-
 // SPDX-License-Identifier: Unlicensed
+
+// Name           : Kuber Coin
+// Symbol         : KUBER
+// Total Supply   : 20,000,000,000
+// Decimals       : 18
+// Discord        : https://discord.gg/W3nbnePfTk
+// Twitter        : https://twitter.com/thekubercoin
+// Telegram       : https://t.me/thekubercoin
+// Reddit         : https://reddit.com/r/KuberCoin
 
 pragma solidity ^0.8.4;
 
