@@ -1,6 +1,8 @@
 /**
- *Submitted for verification at BscScan.com on 2021-06-06
-*/
+ *Discord - https://discord.gg/W3nbnePfTk
+ *Twitter - https://twitter.com/thekubercoin
+ *Telegram - https://t.me/thekubercoin
+**/
 
 // SPDX-License-Identifier: Unlicensed
 
@@ -433,7 +435,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract KuberCoin is Context, IERC20, Ownable {
+contract CoinToken is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
