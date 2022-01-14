@@ -4,7 +4,7 @@
 // Symbol         : KUBER
 // Total Supply   : 20,000,000,000
 // Decimals       : 18
-// Discord        : https://discord.gg/W3nbnePfTk
+// Discord        : https://discord.gg/DPcKfBRHpn
 // Twitter        : https://twitter.com/thekubercoin
 // Telegram       : https://t.me/thekubercoin
 // Reddit         : https://reddit.com/r/KuberCoin
