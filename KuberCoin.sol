@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2022-01-15
+*/
+
 // SPDX-License-Identifier: Unlicensed
 
 // Name           : Kuber Coin
