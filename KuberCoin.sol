@@ -474,7 +474,7 @@ contract KuberCoin is Context, IERC20, Ownable {
     event SwapAndLiquify(
         uint256 tokensSwapped,
         uint256 ethReceived,
-        uint256 tokensIntoLiquidity
+        uint256 tokensIntoLiqudity
     );
     
     modifier lockTheSwap {
